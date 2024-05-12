@@ -65,7 +65,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 keywords = ["Software Engineer", "Manager", "Michigan"]
 description = "Portfolio of Jacob Monroe"
 author = "Jacob Monroe"
-image = "images/preview-image.png"
+image = "images/preview-image.jpg"
 
 
 # site verifications
