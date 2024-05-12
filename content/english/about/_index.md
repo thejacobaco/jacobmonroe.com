@@ -1,9 +1,19 @@
 ---
-title: "Hey, I am John Doe!"
-meta_title: "About"
+title: "Hello there! My name is Jacob, I believe:"
+meta_title: "Jacob Monroe - About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/preview-image.jpg"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+
+
+relishing in complexity > fanciful comprehension
+
+insight gained > action never taken
+
+evoking a notion > an inaccessible treatise
+
+linux > windows ;)
+
+I hail from southeast Michigan, keep chickens, enjoy watching my children grow, cherish my wife, and value deference to God's word.
